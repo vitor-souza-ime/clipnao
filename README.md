@@ -82,9 +82,4 @@ Durante a execução, o sistema:
 
 * Radford, A., Kim, J. W., Hallacy, C., Ramesh, A., Goh, G., Agarwal, S., ... & Sutskever, I. (2021). **Learning Transferable Visual Models From Natural Language Supervision**. [CLIP paper](https://arxiv.org/abs/2103.00020)
 
-## Licença
 
-
-
-Se você quiser, posso também criar um `requirements.txt` pronto para este projeto, com todas as bibliotecas necessárias para rodar o `main.py` no seu ambiente local. Quer que eu faça?
-```
